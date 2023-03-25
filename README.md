@@ -1,1 +1,1 @@
-# MGTU
+# BMSTU
